@@ -1,0 +1,27 @@
+.footer {
+    background-color: #1A1D29;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    color: white;
+    gap: 20px;
+    width: 100%;
+}
+
+.footer div {
+    text-align: left;
+}
+.footer ul span {
+    color: #fffb;
+    font-style: italic;
+}
+
+@media screen and (max-width: 800px) {
+    .footer{
+        flex-direction: column;
+    }
+    .footer div {
+        text-align: center;
+    }
+}

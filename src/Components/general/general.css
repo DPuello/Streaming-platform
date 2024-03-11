@@ -1,0 +1,17 @@
+.aerobutton{
+    width: 40px;
+    height: 40px;
+    padding: 5px;
+    border-radius: 10px;
+    box-shadow: 0 2px 6px #0001, inset 0 1px #fff3, inset 0 10px #fff2, inset 0 10px 20px #fff5, inset 0 -15px 30px #0002;
+   -o-box-shadow: 0 2px 6px #0001, inset 0 1px #fff3, inset 0 10px #fff2, inset 0 10px 20px #fff5, inset 0 -15px 30px #0002;
+   -webkit-box-shadow: 0 2px 6px #0001, inset 0 1px #fff3, inset 0 10px #fff2, inset 0 10px 20px #fff5, inset 0 -15px 30px #0002;
+   -moz-box-shadow: 0 2px 6px #0001, inset 0 1px #fff3, inset 0 10px #fff2, inset 0 10px 20px #fff5, inset 0 -15px 30px #0002;
+   transition: all 0.5s;
+   cursor: pointer;
+   opacity: 0.5;
+}
+.aerobutton:hover{
+    background-color: #fff2;
+    opacity: 1;
+}

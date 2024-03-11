@@ -1,0 +1,10 @@
+{
+    "result":[
+        {
+            "email": "admin@admin.an",
+            "password": "admin",
+            "name": "John Doe",
+            "id": 1
+        }
+    ]
+}
