@@ -5,6 +5,24 @@
             "password": "admin",
             "name": "John Doe",
             "id": 1
+        },
+        {
+            "email": "ana@bemaster.com",
+            "password": "12345",
+            "name": "Ana Martinez",
+            "id": 2
+        },
+        {
+            "email": "juancast9808@gmail.com",
+            "password": "admin",
+            "name": "Juan",
+            "id": 3
+        },
+        {
+            "email": "juandanielcast@outlook.com",
+            "password": "admin",
+            "name": "Juan",
+            "id": 4
         }
     ]
 }
